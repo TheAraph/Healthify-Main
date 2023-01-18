@@ -7,6 +7,7 @@ import { ScrollView } from 'react-native-gesture-handler'
 import { RefreshControl } from 'react-native';
 import Emoji from 'react-native-emoji';
 
+
 //date functionality
 // const CurrentDate = () => {
 //   const today = new Date();
